@@ -1,0 +1,24 @@
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\bin\Debug\net6.0\Model.dll
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\bin\Debug\net6.0\Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\Model.dll
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI.Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\bin\Debug\net6.0\Model.dll
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\Model.dll
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI.Model\obj\Debug\net6.0\ref\Model.dll
