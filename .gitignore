@@ -1,0 +1,63 @@
+# Visual Studio / Rider / Xamarin
+*.userprefs
+*.suo
+*.cache
+*.vs
+*.dbmdl
+*.pdb
+*.obj
+*.dll
+*.apk
+*.ap_
+*.ipa
+*.apsym
+*.aot
+*.jfm
+*.log
+*.txt
+
+# Build results
+bin/
+obj/
+
+# NuGet
+**/packages/*
+*.nupkg
+*.snupkg
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Nn]ode_modules/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/
+
+# DotCover coverage results
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+*.csproj.user
+*.resharper.user
+*.sln.docstates.user
+
+# Dapper
+/DapperWebApi/bin/
+/DapperWebApi/obj/
+
+# ignore files in Model project
+/Model/bin/
+/Model/obj/
+
+# ignore files in Access project
+/Access/bin/
+/Access/obj/

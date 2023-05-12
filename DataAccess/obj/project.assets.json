@@ -180,6 +180,19 @@
           "lib/net6.0/krbcc64.dll": {}
         }
       },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Portable.BouncyCastle/1.9.0": {
         "type": "package",
         "compile": {
@@ -548,6 +561,9 @@
       "Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "compile": {
           "bin/placeholder/Model.dll": {}
         },
@@ -823,6 +839,36 @@
         "lib/netstandard2.1/krbcc64.dll",
         "mysql.data.8.0.32.nupkg.sha512",
         "mysql.data.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Portable.BouncyCastle/1.9.0": {
@@ -1862,23 +1908,24 @@
       "Dapper >= 2.0.123",
       "Model >= 1.0.0",
       "MySql.Data >= 8.0.32",
+      "Newtonsoft.Json >= 13.0.3",
       "System.Data.SqlClient >= 4.8.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mario\\.nuget\\packages\\": {}
+    "C:\\Users\\basty\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\basty\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\basty\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1892,8 +1939,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DapperWebAPI.Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DapperWebAPI.Model\\Model.csproj"
+            "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DapperWebAPI.Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DapperWebAPI.Model\\Model.csproj"
             }
           }
         }
@@ -1916,6 +1963,10 @@
             "target": "Package",
             "version": "[8.0.32, )"
           },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
           "System.Data.SqlClient": {
             "target": "Package",
             "version": "[4.8.5, )"
@@ -1932,20 +1983,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

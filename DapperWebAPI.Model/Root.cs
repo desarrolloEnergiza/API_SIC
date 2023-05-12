@@ -12,5 +12,5 @@ public class Root
     public int? cantTotalActividad { get; set; }
     public int? cantActividadSincronica { get; set; }
     public int? cantActividadAsincronica { get; set; }
-    public List<Alumno> Alumnos { get; set; } = new List<Alumno>();
+    public List<Alumno> listaAlumnos { get; set; } = new List<Alumno>();
 }
