@@ -28,3 +28,18 @@ C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\Dapp
 C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\bin\Debug\net6.0\Model.dll
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\bin\Debug\net6.0\Model.pdb
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperWebAPI", "DapperWebAPI\DapperWebAPI.csproj", "{2C7F2632-2901-462B-A76C-27EA988526E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperWebAPI", "DapperWebAPI\DapperWebAPI.csproj", "{2C7F2632-2901-462B-A76C-27EA988526E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "DapperWebAPI.Model\Model.csproj", "{F8355D6C-09EA-4B46-B36B-0057188AB17D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "DapperWebAPI.Model\Model.csproj", "{F8355D6C-09EA-4B46-B36B-0057188AB17D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{79C6EE97-ECEA-4C03-8F12-9777483301ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{79C6EE97-ECEA-4C03-8F12-9777483301ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

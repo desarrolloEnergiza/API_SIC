@@ -42,6 +42,7 @@ public class AlumnoRepo : IAlumnoRepo
             foreach (var item in resultado)
             {
                 Alumno alumno = new Alumno();
+                alumno.Id = item.Id;
                 alumno.rutAlumno = item.rutAlumno;
                 alumno.dvAlumno = item.dvAlumno;
                 alumno.codigoOferta = item.codigoOferta;
@@ -50,7 +51,7 @@ public class AlumnoRepo : IAlumnoRepo
                 alumno.porcentajeAvance = 0;
                 alumno.fechaInicio = item.fechaInicio;
                 alumno.fechaFin = item.fechaFin;
-                alumno.Modulos = new List<Modulo>();
+                alumno.Modulos = item.Modulos;
                 listaAlumnos.Add(alumno);
             }
             conexion.Close();
@@ -93,8 +94,9 @@ public class AlumnoRepo : IAlumnoRepo
         using (var multi = await conexion.QueryMultipleAsync(query, new {id}))
         {
             var alumno = await multi.ReadSingleOrDefaultAsync<Alumno>();
-            if (alumno is not null)
+            if (alumno is not null) {
                 alumno.Modulos = (await multi.ReadAsync<Modulo>()).ToList();
+            }
 
             return alumno;
         }

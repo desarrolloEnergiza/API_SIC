@@ -22,28 +22,43 @@ public class AlumnoController : Controller
             var result = _alumno.GetAlumnos();
             return Ok(result);
         }
-        catch (Exception)
+        catch (Exception e)
         {
-            return this.StatusCode(StatusCodes.Status500InternalServerError, "Datos no encontrados");
+            var error = new { message = e.Message, stackTrace = e.StackTrace };
+            return this.StatusCode(StatusCodes.Status500InternalServerError, error);
         }
     }
 
     [HttpGet("{id}/GetMulti")]
     public async Task<IActionResult> GetMulti(int id)
     {
-        var alumno = await _alumno.GetMulti(id);
-        if (alumno is null)
-            return NotFound();
-        return Ok(alumno);
+        try
+        {
+            var alumno = await _alumno.GetMulti(id);
+            if (alumno is null)
+                return NotFound();
+            return Ok(alumno);
+        } catch (Exception e)
+        {
+            var error = new { message = e.Message, stackTrace = e.StackTrace };
+            return this.StatusCode(StatusCodes.Status500InternalServerError, error);
+        }
     }
 
     [HttpGet("{id}", Name = "GetById")]
     public async Task<IActionResult> GetAlumno(int id)
     {
-        var alumno = await _alumno.GetById(id);
-        if (alumno is null)
-            return NotFound();
-        return Ok(alumno);
+        try
+        {
+            var alumno = await _alumno.GetById(id);
+            if (alumno is null)
+                return NotFound();
+            return Ok(alumno);
+        } catch (Exception e)
+        {
+            var error = new { message = e.Message, stackTrace = e.StackTrace };
+            return this.StatusCode(StatusCodes.Status500InternalServerError, error);
+        }
     }
 
 }

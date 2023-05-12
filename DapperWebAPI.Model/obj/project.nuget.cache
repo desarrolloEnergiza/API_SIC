@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gd7W+iUEyNsUwc6CfqLI2TenKlaOxv0Q0ENJ2BucSiz9awLHKu2QHF/9MylMZC57QZmvkOV/4lUEYT9ShFHvPw==",
+  "dgSpecHash": "RYydoGU/4EoFdJNyBQUR67h8LXiIQNA+52pM1UekcrCyceY4d+mfN8ZoZDEJnEcfyZX8IXVjAfShyTzFRQ6bng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DapperWebAPI.Model\\Model.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DapperWebAPI.Model\\Model.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -67,6 +67,9 @@ public class RootRepo : IRootRepo
                     // Agregar TOKEN
                     curso.token = "41121748-F370-403D-8F03-2F9F7E5C40D2";
                     curso.Alumnos = (await multi.ReadAsync<Alumno>()).ToList();
+                } else
+                {
+                    return curso;
                 }
             }
         
@@ -135,17 +138,20 @@ public class RootRepo : IRootRepo
                 command.Parameters.AddWithValue("@id", id);
                 int actividadesSincronicas = Convert.ToInt32(command.ExecuteScalar());
                 curso.cantActividadSincronica = actividadesSincronicas;
+                conexion.Close();
             }
             //agregar actividades asincronicas
             var actividadesAsincronicasQuery = @"SELECT count(id) FROM mo_course_sections where course = @id and (name not like '%video%'and name not like '%sinc%')";
 
-            
+
 
             using (MySqlCommand command = new MySqlCommand(actividadesAsincronicasQuery, conexion))
-            {
+            { 
+                conexion.Open();
                 command.Parameters.AddWithValue("@id", id);
                 int actividadesAsincronicas = Convert.ToInt32(command.ExecuteScalar());
                 curso.cantActividadAsincronica = actividadesAsincronicas;
+                conexion.Close();
             }
             //obtener tiempos de conexion
 
@@ -184,6 +190,7 @@ public class RootRepo : IRootRepo
 
                 long tiempoConexion = tiempoMaximo - tiempoMinimo;
 
+                conexion.Close();
                 return tiempoConexion; 
             }
 

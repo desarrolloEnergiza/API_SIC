@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mario\\.nuget\\packages\\": {}
+    "C:\\Users\\basty\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DapperWebAPI.Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DapperWebAPI.Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DapperWebAPI.Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mario\\Desktop\\ENERGIZA librerias + SQL\\panel de reportes sebastian\\DapperASPNETCoreWebAPI\\DapperASPNETCoreWebAPI - actual\\DapperWebAPI.Model\\obj\\",
+      "projectPath": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DapperWebAPI.Model\\Model.csproj",
+      "packagesPath": "C:\\Users\\basty\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\basty\\source\\repos\\desarrolloEnergiza\\API_SIC\\DapperWebAPI.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\basty\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,20 +56,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
