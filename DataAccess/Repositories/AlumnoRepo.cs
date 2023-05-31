@@ -102,7 +102,6 @@ public class AlumnoRepo : IAlumnoRepo
             {
                 alumno.listaModulos = (await multi.ReadAsync<Modulo>()).ToList();
             }
-
             return alumno;
         }
     }
