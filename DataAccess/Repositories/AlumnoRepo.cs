@@ -3,6 +3,9 @@ using DataAccess.Data;
 using DataAccess.Interfases;
 using Model;
 using MySql.Data.MySqlClient;
+using System.Text;
+using Newtonsoft.Json;
+using MySqlX.XDevAPI;
 
 namespace DataAccess.Repositories;
 
@@ -10,12 +13,13 @@ public class AlumnoRepo : IAlumnoRepo
 {
     // Inyectamos la dependencia de MySQLConfig
     private readonly MySQLConfig _config;
+    private readonly IRootRepo rootRepo;
     private List<Alumno> listaAlumnos = new List<Alumno>();
 
-
-    public AlumnoRepo(MySQLConfig config)
+    public AlumnoRepo(MySQLConfig config, IRootRepo rootRepo)
     {
         _config = config;
+        this.rootRepo = rootRepo;
     }
 
     // Abrir la conexión a la base de datos
@@ -36,12 +40,13 @@ public class AlumnoRepo : IAlumnoRepo
                                 INNER JOIN mo_context ON mo_context.instanceid = mo_course.id
                                 INNER JOIN mo_role_assignments ON mo_context.id = mo_role_assignments.contextid
                                 INNER JOIN mo_user ON (mo_role_assignments.userid = mo_user.id)
-                                WHERE (INSTR(fullname, 'RLAB-21-02-13-0032-2') AND mo_role_assignments.roleid = 5)";
+                                WHERE (LEFT(mo_user.idnumber, LENGTH(mo_user.idnumber - 2)) != '' AND mo_role_assignments.roleid = 5);";
 
             var resultado = conexion.Query<Alumno>(query);
             foreach (var item in resultado)
             {
                 Alumno alumno = new Alumno();
+                alumno.Id = item.Id;
                 alumno.rutAlumno = item.rutAlumno;
                 alumno.dvAlumno = item.dvAlumno;
                 alumno.codigoOferta = item.codigoOferta;
@@ -50,7 +55,7 @@ public class AlumnoRepo : IAlumnoRepo
                 alumno.porcentajeAvance = 0;
                 alumno.fechaInicio = item.fechaInicio;
                 alumno.fechaFin = item.fechaFin;
-                alumno.Modulos = new List<Modulo>();
+                alumno.listaModulos = item.listaModulos;
                 listaAlumnos.Add(alumno);
             }
             conexion.Close();
@@ -90,12 +95,13 @@ public class AlumnoRepo : IAlumnoRepo
                         AND mo_role_assignments.roleid = 5";
 
         using (var conexion = ObtenerConexion())
-        using (var multi = await conexion.QueryMultipleAsync(query, new {id}))
+        using (var multi = await conexion.QueryMultipleAsync(query, new { id }))
         {
             var alumno = await multi.ReadSingleOrDefaultAsync<Alumno>();
             if (alumno is not null)
-                alumno.Modulos = (await multi.ReadAsync<Modulo>()).ToList();
-
+            {
+                alumno.listaModulos = (await multi.ReadAsync<Modulo>()).ToList();
+            }
             return alumno;
         }
     }
@@ -117,5 +123,60 @@ public class AlumnoRepo : IAlumnoRepo
             return alumno;
         }
     }
+
+    public string GetApiResponse(string apiKey)
+    {
+        using (HttpClient httpClient = new HttpClient())
+        {
+            // Realiza una solicitud GET a la API externa
+            HttpResponseMessage response = httpClient.GetAsync(apiKey).Result;
+
+            // Verifica si la solicitud fue exitosa
+            response.EnsureSuccessStatusCode();
+
+            return response.Content.ReadAsStringAsync().Result;
+        }
+    }
+
+
+    public async Task<List<string>> PostApiRequest(string apiKey)
+    {
+        List<string> responses = new List<string>();
+        List<int> ids = new List<int>() { 213, 193 };
+
+            using (HttpClient httpClient = new HttpClient())
+        {
+
+            foreach (int id in ids)
+            {
+                try
+                {
+                    var rootResponse = await rootRepo.GetData(id);
+                    var rawResponse = JsonConvert.SerializeObject(rootResponse);
+
+                    Console.WriteLine(rawResponse);
+
+                    var content = new StringContent(rawResponse, Encoding.UTF8, "application/json");
+                        
+                    HttpResponseMessage response = await httpClient.PostAsync(apiKey, content);
+                    response.EnsureSuccessStatusCode();
+
+                    string responseBody = await response.Content.ReadAsStringAsync();
+                    responses.Add(responseBody);
+                 }
+                catch (Exception ex)
+                {
+                    responses.Add(ex.Message);
+                }
+            }
+
+            Console.WriteLine(responses[0]);
+            Console.WriteLine(responses[1]);
+        }
+
+        return responses;
+    }
+
+
 }
 
