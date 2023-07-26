@@ -43,6 +43,7 @@ namespace DapperWebAPI.services
                     try
                     {
                         string responseBody = responseTask.Result;
+                        Logs.saveLog(DateTime.Now.ToString("yyyy-MM-dd HH") + "RESPONSE", responseBody);
                         responses.Add(responseBody);
                     }
                     catch (Exception ex)
@@ -51,8 +52,6 @@ namespace DapperWebAPI.services
                     }
                 }
 
-                Console.WriteLine(responses[0]);
-                Console.WriteLine(responses[1]);
             }
         }
 
@@ -66,6 +65,8 @@ namespace DapperWebAPI.services
                 Console.WriteLine(rawResponse);
 
                 var content = new StringContent(rawResponse, Encoding.UTF8, "application/json");
+
+                Logs.saveLog(DateTime.Now.ToString("yyyy-MM-dd HH") + "REQUEST", " "+content+" ");
 
                 HttpResponseMessage response = await httpClient.PostAsync(apiKey, content);
                 response.EnsureSuccessStatusCode();

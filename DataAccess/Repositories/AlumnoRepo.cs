@@ -5,7 +5,6 @@ using Model;
 using MySql.Data.MySqlClient;
 using System.Text;
 using Newtonsoft.Json;
-using MySqlX.XDevAPI;
 
 namespace DataAccess.Repositories;
 
@@ -101,6 +100,10 @@ public class AlumnoRepo : IAlumnoRepo
             if (alumno is not null)
             {
                 alumno.listaModulos = (await multi.ReadAsync<Modulo>()).ToList();
+            }
+            else
+            {
+                return new Alumno();
             }
             return alumno;
         }

@@ -1,6 +1,7 @@
 ﻿using DataAccess.Interfases;
 using Hangfire;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace DapperWebAPI.Controllers;
 
@@ -25,7 +26,9 @@ public class RootController : Controller
             var curso = await _root.GetData(id);
             if (curso is null)
                 return NotFound();
-            return Ok(curso);
+            var json = JsonConvert.SerializeObject(curso);
+            Logs.saveLog(DateTime.Now.ToString("yyyy-MM-dd HH"), ""+json);
+            return Ok(json);
         } catch (Exception e) {
             var error = new { message = e.Message, stackTrace = e.StackTrace };
             return this.StatusCode(StatusCodes.Status500InternalServerError, error);

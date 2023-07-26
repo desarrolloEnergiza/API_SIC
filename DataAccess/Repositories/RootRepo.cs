@@ -68,7 +68,7 @@ public class RootRepo : IRootRepo
                     curso.listaAlumnos = (await multi.ReadAsync<Alumno>()).ToList();
                 } else
                 {
-                    return curso;
+                    return new Root();
                 }
             }
         
