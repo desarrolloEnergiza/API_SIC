@@ -1,213 +1,333 @@
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.exe
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.deps.json
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.runtimeconfig.json
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.pdb
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Dapper.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Google.Protobuf.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\MySql.Data.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\ZstdNet.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\comerr64.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\gssapi64.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\k5sprt64.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\krb5_64.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\krbcc64.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\DataAccess.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Model.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\DataAccess.pdb
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\bin\Debug\net6.0\Model.pdb
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.AssemblyReference.cache
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.AssemblyInfoInputs.cache
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.AssemblyInfo.cs
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.CoreCompileInputs.cache
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.DapperWebAPI.props
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DapperWebAPI.props
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DapperWebAPI.props
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\scopedcss\bundle\DapperWebAPI.styles.css
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.CopyComplete
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\refint\DapperWebAPI.dll
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.pdb
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.genruntimeconfig.cache
-C:\Users\sebas\OneDrive\Escritorio\C#\DapperASPNETCoreWebAPI\DapperWebAPI\obj\Debug\net6.0\ref\DapperWebAPI.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.exe
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.deps.json
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.runtimeconfig.json
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.pdb
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Dapper.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Google.Protobuf.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\MySql.Data.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\ZstdNet.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\comerr64.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\gssapi64.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\k5sprt64.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\krb5_64.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\krbcc64.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\DataAccess.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Model.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\DataAccess.pdb
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\Model.pdb
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.AssemblyReference.cache
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.AssemblyInfoInputs.cache
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.AssemblyInfo.cs
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.DapperWebAPI.props
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DapperWebAPI.props
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DapperWebAPI.props
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\scopedcss\bundle\DapperWebAPI.styles.css
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.CopyComplete
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\refint\DapperWebAPI.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.pdb
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.genruntimeconfig.cache
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\obj\Debug\net6.0\ref\DapperWebAPI.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Mario\Desktop\ENERGIZA librerias + SQL\panel de reportes sebastian\DapperASPNETCoreWebAPI\DapperASPNETCoreWebAPI - actual\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.exe
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.deps.json
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.runtimeconfig.json
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\DapperWebAPI.pdb
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Dapper.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Google.Protobuf.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\MySql.Data.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\ZstdNet.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\comerr64.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\gssapi64.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\k5sprt64.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\krb5_64.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\krbcc64.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\DataAccess.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Model.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\DataAccess.pdb
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Model.pdb
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.AssemblyReference.cache
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.AssemblyInfoInputs.cache
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.AssemblyInfo.cs
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.CoreCompileInputs.cache
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.DapperWebAPI.props
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DapperWebAPI.props
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DapperWebAPI.props
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\scopedcss\bundle\DapperWebAPI.styles.css
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.csproj.CopyComplete
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\refint\DapperWebAPI.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.pdb
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\DapperWebAPI.genruntimeconfig.cache
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\obj\Debug\net6.0\ref\DapperWebAPI.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Hangfire.AspNetCore.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Hangfire.Core.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Hangfire.MySql.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Hangfire.NetCore.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\Hangfire.SqlServer.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\MySqlConnector.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
-C:\Users\basty\source\repos\desarrolloEnergiza\API_SIC\DapperWebAPI\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.exe
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.deps.json
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.runtimeconfig.json
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.pdb
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Dapper.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/ZstdNet.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/comerr64.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/gssapi64.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/k5sprt64.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/krb5_64.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/krbcc64.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/DataAccess.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Model.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/DataAccess.pdb
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/bin/Debug/net6.0/Model.pdb
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.AssemblyReference.cache
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfoInputs.cache
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfo.cs
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.DapperWebAPI.props
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DapperWebAPI.props
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DapperWebAPI.props
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/scopedcss/bundle/DapperWebAPI.styles.css
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CopyComplete
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/refint/DapperWebAPI.dll
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.pdb
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.genruntimeconfig.cache
+C:/Users/sebas/OneDrive/Escritorio/C#/DapperASPNETCoreWebAPI/DapperWebAPI/obj/Debug/net6.0/ref/DapperWebAPI.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.exe
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.deps.json
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.runtimeconfig.json
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.pdb
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Dapper.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/ZstdNet.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/comerr64.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/gssapi64.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/k5sprt64.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/krb5_64.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/krbcc64.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/DataAccess.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Model.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/DataAccess.pdb
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/Model.pdb
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.AssemblyReference.cache
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfoInputs.cache
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfo.cs
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.DapperWebAPI.props
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DapperWebAPI.props
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DapperWebAPI.props
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/scopedcss/bundle/DapperWebAPI.styles.css
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CopyComplete
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/refint/DapperWebAPI.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.pdb
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.genruntimeconfig.cache
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/obj/Debug/net6.0/ref/DapperWebAPI.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Mario/Desktop/ENERGIZA librerias + SQL/panel de reportes sebastian/DapperASPNETCoreWebAPI/DapperASPNETCoreWebAPI - actual/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.exe
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.deps.json
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.runtimeconfig.json
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.pdb
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Dapper.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/ZstdNet.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/comerr64.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/gssapi64.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/k5sprt64.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/krb5_64.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/krbcc64.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/DataAccess.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Model.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/DataAccess.pdb
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Model.pdb
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.AssemblyReference.cache
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfoInputs.cache
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfo.cs
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.DapperWebAPI.props
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DapperWebAPI.props
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DapperWebAPI.props
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/scopedcss/bundle/DapperWebAPI.styles.css
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CopyComplete
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/refint/DapperWebAPI.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.pdb
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.genruntimeconfig.cache
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/obj/Debug/net6.0/ref/DapperWebAPI.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.AspNetCore.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.Core.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.MySql.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.NetCore.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.SqlServer.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/ca/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/de/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/es/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/fa/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/fr/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/nb/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/nl/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/pt-BR/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/pt-PT/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/pt/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/sv/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/tr-TR/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/zh-TW/Hangfire.Core.resources.dll
+C:/Users/basty/source/repos/desarrolloEnergiza/API_SIC/DapperWebAPI/bin/Debug/net6.0/zh/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/appsettings.json
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.deps.json
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.runtimeconfig.json
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/DapperWebAPI.pdb
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Amazon.Lambda.APIGatewayEvents.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Amazon.Lambda.AspNetCoreServer.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Amazon.Lambda.Core.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Amazon.Lambda.Logging.AspNetCore.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/AWSSDK.Core.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Azure.Core.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Castle.Core.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Dapper.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.AspNetCore.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.Core.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.MySql.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.NetCore.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Hangfire.SqlServer.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/MySql.Data.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/MySqlConnector.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Serilog.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Diagnostics.PerformanceCounter.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Formats.Asn1.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Text.Json.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/ca/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/de/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/es/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/fa/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/fr/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/nb/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/nl/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/pt-BR/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/pt-PT/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/pt/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/sv/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/tr-TR/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/zh-TW/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/zh/Hangfire.Core.resources.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/DataAccess.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Model.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/DataAccess.pdb
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/bin/Debug/net6.0/Model.pdb
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.AssemblyReference.cache
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfoInputs.cache
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.AssemblyInfo.cs
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CoreCompileInputs.cache
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/scopedcss/bundle/DapperWebAPI.styles.css
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.csproj.CopyComplete
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/refint/DapperWebAPI.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.pdb
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/DapperWebAPI.genruntimeconfig.cache
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/ref/DapperWebAPI.dll
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.DapperWebAPI.props
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DapperWebAPI.props
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DapperWebAPI.props
+/Users/bmedin01/repos/API_SIC/DapperWebAPI/obj/Debug/net6.0/staticwebassets.pack.json
